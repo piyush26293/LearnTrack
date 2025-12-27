@@ -43,7 +43,7 @@ public class Main {
 
                 case 1:
                     studentMenu(sc, studentService);
-                    break;
+                    break; 
 
                 case 2:
                     courseMenu(sc, courseService);
